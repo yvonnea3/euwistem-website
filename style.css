@@ -1,0 +1,23 @@
+<<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="css/styles.css">
+  </head>
+
+h1{
+  color: blue;
+  font-size: 60px;
+  font-family:helvetica;
+  text-align:center;
+
+  }
+  p{color:blue;
+    font-family:Helvetica;
+    font-size:16px;
+  }
+  ul li{background-color:yellow;
+  }
+  h2{background-color:orange;
+    color:green;}
+  ol li{background-color:teal;}
+}
