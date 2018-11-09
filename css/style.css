@@ -1,21 +1,42 @@
+header{
+  text-align:center;
+  background-size: cover;
+}
+a{
+  color:#0d294b;
+
+}
+img{
+  margin:px 100px 0px 0px;
+}
 
 h1{
   color: #0d294b;
-  font-size: 60px;
+  font-size: 80px;
   font-family: trocchi;
   text-align:center;
   }
+
   body{
     background-color: #c4e8d6;
     }
+
   p{
     color:black;
     font-family:Helvetica;
     font-size:30px;
   }
+  ul.nav li{
+      display: inline-block;
+      padding-right: 20px;
+      font-size: 30px;
+}
 
-  ul li{background-color:#c4e8d6;
-    text-align: center;
+   ul{
+    background-color:#c4e8d6;
+    text-align:center;
+    font-family: trocchi;
+    padding: 10px;
   }
   h2{background-color:white;
     color:red;}
