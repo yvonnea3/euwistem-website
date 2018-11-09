@@ -1,0 +1,23 @@
+
+h1{
+  color: #0d294b;
+  font-size: 60px;
+  font-family: trocchi;
+  text-align:center;
+  }
+  body{
+    background-color: #c4e8d6;
+    }
+  p{
+    color:black;
+    font-family:Helvetica;
+    font-size:30px;
+  }
+
+  ul li{background-color:#c4e8d6;
+    text-align: center;
+  }
+  h2{background-color:white;
+    color:red;}
+  ol li{background-color:teal;}
+}
