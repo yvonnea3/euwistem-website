@@ -1,7 +1,7 @@
 header{
   text-align:center;
   background-size: cover;
-  img-size:
+  font-family: Helvetica
 }
 a{
   color:#0d294b;
@@ -15,7 +15,7 @@ img{
 h1{
   color: #0d294b;
   font-size: 80px;
-  font-family: <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">;
+  font-family: Helvetica;
   text-align:center;
   }
 
@@ -26,21 +26,30 @@ h1{
   p{
     color:black;
     font-family:Helvetica;
-    font-size:30px;
+    font-size:20px;
+    text-align: center;
   }
   ul.nav li{
       display: inline-block;
-      padding-right: 20px;
-      font-size: 30px;
+      padding-right: 50px;
+      padding-left: 50px;
+      font-size: 20px;
 }
 
    ul{
     background-color:#c4e8d6;
     text-align:center;
-    font-family: trocchi;
+    font-family: Helvetica;
     padding: 10px;
   }
-  h2{background-color:white;
-    color:red;}
+  h2{
+    background-color:#c4e8d6;
+    color:red;
+    font-family:Helvetica;
+    text-align: center;
+  }
   ol li{background-color:teal;}
+}
+ul.Past-Events li {
+  text-color: red;
 }
