@@ -1,55 +1,39 @@
 header{
   text-align:center;
   background-size: cover;
-  font-family: Helvetica
+  font-family: 'Lora', serif;
 }
-a{
-  color:#0d294b;
-
-}
-img{
-   width:1000px;
-
-}
-
-h1{
-  color: #0d294b;
-  font-size: 80px;
-  font-family: Helvetica;
-  text-align:center;
+  a{
+    color:#0d294b;
   }
+
+  img{
+     width:900px;
+  }
+
+  h1{
+    color: #0d294b;
+    font-size: 20px;
+    font-family: 'Lora', serif;
+    text-align:center;
+    }
 
   body{
     background-color: #c4e8d6;
     }
 
-  p{
-    color:black;
-    font-family:Helvetica;
-    font-size:20px;
-    text-align: center;
-  }
+
+
   ul.nav li{
       display: inline-block;
-      padding-right: 50px;
-      padding-left: 50px;
+      padding-right: 25px;
+      padding-left: 25px;
       font-size: 20px;
 }
 
    ul{
     background-color:#c4e8d6;
     text-align:center;
-    font-family: Helvetica;
+    font-family:'Lora', serif;;
     padding: 10px;
   }
-  h2{
-    background-color:#c4e8d6;
-    color:red;
-    font-family:Helvetica;
-    text-align: center;
-  }
-  ol li{background-color:teal;}
-}
-ul.Past-Events li {
-  text-color: red;
-}
