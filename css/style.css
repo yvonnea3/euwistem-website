@@ -2,14 +2,16 @@ header{
   text-align:center;
   background-size: cover;
   font-family: 'Lora', serif;
+  margin-top: none;
 }
   a{
     color:#0d294b;
   }
 
   img{
-     width:900px;
+     width:800px;
      background-color: #c4e8d6;
+     margin-top: 0px;
   }
 
 
