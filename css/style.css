@@ -41,19 +41,17 @@ p {
 
 .btn-primary {
     background-color: #0d294b;
-    border-radius:50px;
+    border:none ;
     color: white;
     padding: 12px 12px;
     text-align: center;
     text-decoration: none;
-    display: inline-flex;
+    display: inline-block;
     font-size: 16px;
     margin-left: 100px;
     margin-right: 100px;
-    float: left;
-    border: 1px solid blue;
-
-  }
+    float: center;
+}
   body{
     background-color: #c4e8d6;
     }
@@ -74,29 +72,23 @@ p {
 img.img-circle {
   max-height: 150px;
   max-width: 150px;
-  width: 150px;
   height: 150px;
   margin-left: 550px;
-  margin-right: 550px;
+  margin-right: 550px
+  width:500px;
+
+}
+img.gallery-container {
+
+  width: 33.3%;
+  padding: 5px;
+  max-height: 200px;
+  max-width: 200px;
+  height: 150px;
+  margin-left: 550px;
+  margin-right: 550px
+  width:500px;
 }
 blockquote {
   text-align: center;
-}
-
-<carousel> class="carousel slide" data-ride="carousel">
-  <div> class="carousel-inner">
-    <div class="carousel-item active">
-      <img  src="css/gallery1.jpg" alt="First slide">
-    </div>
-    <div class="carousel-item">
-      <img  src="css/gallery2.jpg" alt="Second slide">
-    </div>
-    <div class="carousel-item">
-      <img  src="css/gallery3.jpg" alt="Third slide">
-      <div class="carousel-item">
-        <img  src="css/gallery4.jpg" alt="Third slide">
-    </div>
-  </div>
-</div>
-</carousel>
 }
