@@ -31,14 +31,25 @@ header{
       font-size: 25px;
       font-weight: bold;
       font-family: 'Lora', serif;
-      text-align:left;
+      text-align: center;
       }
+p {
+  text-align: center;
+}
 
-
-
-
-
-
+.btn-primary {
+    background-color: #0d294b;
+    border:none ;
+    color: white;
+    padding: 12px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 100px;
+    margin-right: 100px;
+    float: center;
+}
   body{
     background-color: #c4e8d6;
     }
