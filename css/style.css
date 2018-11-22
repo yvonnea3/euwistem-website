@@ -9,14 +9,22 @@ header{
 
   img{
      width:900px;
+     background-color: #c4e8d6;
   }
+
+
+
+
 
   h1{
     color: #0d294b;
+    background-color: #c4e8d6;
     font-size: 25px;
+    font-weight: bold;
     font-family: 'Lora', serif;
     text-align:center;
     }
+
 
   body{
     background-color: #c4e8d6;
