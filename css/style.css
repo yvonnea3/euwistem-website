@@ -80,3 +80,21 @@ img.img-circle {
 blockquote {
   text-align: center;
 }
+
+<carousel> class="carousel slide" data-ride="carousel">
+  <div> class="carousel-inner">
+    <div class="carousel-item active">
+      <img  src="css/gallery1.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img  src="css/gallery2.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img  src="css/gallery3.jpg" alt="Third slide">
+      <div class="carousel-item">
+        <img  src="css/gallery4.jpg" alt="Third slide">
+    </div>
+  </div>
+</div>
+</carousel>
+}
