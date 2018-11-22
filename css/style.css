@@ -36,7 +36,12 @@ header{
       text-align: center;
       }
 p {
-  text-align: center;
+  color: #0d294b;
+  background-color: #c4e8d6;
+  font-size: 20px;
+  font-weight: lighter;
+  font-family: 'Lora', serif;
+  text-align:center;
 }
 
 .btn-primary {
